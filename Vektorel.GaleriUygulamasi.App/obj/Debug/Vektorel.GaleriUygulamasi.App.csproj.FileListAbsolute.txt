@@ -1,0 +1,6 @@
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.GaleriUygulamasi.App\bin\Debug\Vektorel.GaleriUygulamasi.App.exe.config
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.GaleriUygulamasi.App\bin\Debug\Vektorel.GaleriUygulamasi.App.exe
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.GaleriUygulamasi.App\bin\Debug\Vektorel.GaleriUygulamasi.App.pdb
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.GaleriUygulamasi.App\obj\Debug\Vektorel.GaleriUygulamasi.App.csprojResolveAssemblyReference.cache
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.GaleriUygulamasi.App\obj\Debug\Vektorel.GaleriUygulamasi.App.exe
+D:\GRUP - 106\Vektorel.BasicProgramming\Vektorel.GaleriUygulamasi.App\obj\Debug\Vektorel.GaleriUygulamasi.App.pdb
